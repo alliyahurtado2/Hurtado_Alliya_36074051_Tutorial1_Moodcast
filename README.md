@@ -5,9 +5,9 @@ Moodcast is a visual art and animation project created in Processing (Java).
 It explores how mood and weather can interact visually. The user inputs letters that correspond to emotions and weather conditions, and the program generates a unique animated scene based on the user input. The project serves as a reflective tool, showing how an individual’s emotional state can be influenced or mirrored by their surrounding environment.
 
 # System Overview  
-Platform: Processing IDE
-Language: Java 
-Why?: Processing was used due to its large support of creative coding, making it suited for exploratory visual art projects, like Moodcast. 
+- Platform: Processing IDE
+- Language: Java
+- Why?: Processing was used due to its large support of creative coding, making it suited for exploratory visual art projects, like Moodcast. 
 
 # Instructions  
 To run Moodcast:  
